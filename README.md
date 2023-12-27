@@ -1,2 +1,2 @@
-# CalendarPicker
-CalendarPicker
+# Javascript Plugin
+CalendarPickerJS
